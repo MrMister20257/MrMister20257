@@ -1,16 +1,33 @@
-## Hi there 👋
+# Willkommen auf meinem Profil!
+---
 
-<!--
-**MrMister20257/MrMister20257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, ich bin MrMister20257 und passionierter Web-Entwickler in spe 💻💪
 
-Here are some ideas to get you started:
+Aktuell arbeite ich an einer PWA ([Progressive Web Application](https://de.wikipedia.org/wiki/Progressive_Web_App)), in der ich diverse Tools für eine Community zur Verfügung stelle, die schnelle und nützliche Berechnungen mit JavaScript durchführen. Ich programmiere gerne [Singlepage Applications](https://de.wikipedia.org/wiki/Single-Page-Webanwendung) mit dem Framework React und versuche meine Fähigkeiten stets zu verbessern. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Keine Macht dem **~~Prop Drilling~~**!* :-D
+<br>
+Des Weiteren arbeite ich mit Python, um meine täglichen API Abfragen durchführen zu können. 
+
+*Hmmmm **Rohdaten!*** 🤤😍
+<br>
+
+
+---
+
+Ich habe bereits folgende Zertifikate erzielt:
+
+```mermaid
+graph LR
+A[META] --> B[Version Control]
+A --> C[HTML and CSS in depth]
+A --> D[Programming with JavaScript]
+A --> E[React Basics]
+E --> F[React Advanced]
+```
+<br>
+... drei fehlen noch aber sind schon in Arbeit!
+
+---
+
+Also dann, viel Spaß beim Stöbern und bis bald! 🖐😎
