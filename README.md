@@ -7,6 +7,7 @@ Aktuell arbeite ich an einer PWA ([Progressive Web Application](https://de.wikip
 
 *Keine Macht dem **~~Prop Drilling~~**!* :-D
 <br>
+
 Des Weiteren arbeite ich mit Python, um meine täglichen API Abfragen durchführen zu können. 
 
 *Hmmmm **Rohdaten!*** 🤤😍
