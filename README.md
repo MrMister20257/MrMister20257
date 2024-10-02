@@ -32,3 +32,5 @@ E --> F[React Advanced]
 ---
 
 Also dann, viel Spaß beim Stöbern und bis bald! 🖐😎
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
